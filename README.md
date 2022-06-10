@@ -1,2 +1,2 @@
 # ProgJar-D
-ETS Progjar D 
+Progjar D 
